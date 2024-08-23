@@ -1,0 +1,27 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#product1,#product2,#product3,#product4,#product5{
+    width: 75px;
+}
+.r1{
+    margin-left: 200px;
+}
+.tr1h1,.tr2td1,.tr3td1,.tr4td1,.tr5td1,.tr6td1{
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+.tr1h2,.tr2td2,.tr3td2,.tr4td2,.tr5td2,.tr6td2{
+    width: 100px;
+    text-align: center;
+}
+.tr1h3,.tr2td3,.tr3td3,.tr4td3,.tr5td3,.tr6td3{
+    width: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+.tr1h4,.tr2td4,.tr3td4,.tr4td4,.tr5td4,.tr6td4{
+    width: 100px;
+    text-align: center;
+}
