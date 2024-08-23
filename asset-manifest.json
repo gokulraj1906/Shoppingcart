@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Shoppingcart-Using-ReactJS/static/css/main.c5477f57.css",
+    "main.js": "/Shoppingcart-Using-ReactJS/static/js/main.3c904bc3.js",
+    "static/media/Watermelon.jpg": "/Shoppingcart-Using-ReactJS/static/media/Watermelon.c2354fc3012e6248d8cb.jpg",
+    "static/media/BlueBerry.jpg": "/Shoppingcart-Using-ReactJS/static/media/BlueBerry.8bf24266f40962255b5c.jpg",
+    "static/media/apple.jpg": "/Shoppingcart-Using-ReactJS/static/media/apple.e7b4029b807902b79b03.jpg",
+    "static/media/Orange.jpg": "/Shoppingcart-Using-ReactJS/static/media/Orange.dd2270b84b1937d63bdf.jpg",
+    "static/media/avacado.jpg": "/Shoppingcart-Using-ReactJS/static/media/avacado.3c48c5086f081f6fcfa3.jpg",
+    "index.html": "/Shoppingcart-Using-ReactJS/index.html",
+    "main.c5477f57.css.map": "/Shoppingcart-Using-ReactJS/static/css/main.c5477f57.css.map",
+    "main.3c904bc3.js.map": "/Shoppingcart-Using-ReactJS/static/js/main.3c904bc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5477f57.css",
+    "static/js/main.3c904bc3.js"
+  ]
+}
